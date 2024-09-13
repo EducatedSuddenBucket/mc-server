@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "6d1c6b8a-f370-3512-b12e-d18c20b1e814",
+    "name": "EducatedBucket",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "769a7c0b-d6e7-389b-b26b-dad391ce8eb9",
+    "name": "Bot",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
